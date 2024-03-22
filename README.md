@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Hai Trieu</h1>
+<h2 align="left">Hi 👋, I'm Hai Trieu</h2>
 <h3 align="left">I'm learning React Native.</h3>
 
 
